@@ -17,7 +17,7 @@ de contribuir para o desenvolvimento da organização como um todo.
 
 - Educação ⤵ 
 
-🏛 Ensino Superior de Tecnologia em Análise e Desenvolvimento de
+🎓 Ensino Superior de Tecnologia em Análise e Desenvolvimento de
 Sistemas (TDS) na Universidade UniSALESIANO - Araçatuba.
 
 
