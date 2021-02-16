@@ -1,6 +1,6 @@
 # Meus projetos 👷
 
-<img src="https://user-images.githubusercontent.com/71656999/108067474-95002f80-703f-11eb-965c-1f5c121b6f53.png" height="200" width="auto">
+<img src="https://user-images.githubusercontent.com/71656999/108081394-ad784600-704f-11eb-8b46-c8d4832fff33.png" height="200" width="auto">
 
 # Esse é meu perfil! 😁 
 
