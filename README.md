@@ -14,7 +14,10 @@
 
 Here are some ideas to get you started:
 
-- Formação 🏛 - Formado em TDS (TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS) da Universidade UniSALESIANO - Araçatuba.
+- Formação 🏛
+
+TDS (TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS) da Universidade UniSALESIANO - Araçatuba.
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
