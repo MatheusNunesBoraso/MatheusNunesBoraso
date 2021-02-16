@@ -15,7 +15,7 @@ gostaria de fazer parte da equipe de funcionários da empresa, tendo
 o objetivo de crescer profissionalmente e de maneira produtiva, além
 de contribuir para o desenvolvimento da organização como um todo.
 
-- 🏛 Educação 
+-Educação⤵ 
 
 -- Ensino Superior de Tecnologia em Análise e Desenvolvimento de
 Sistemas (TDS) na Universidade UniSALESIANO - Araçatuba.
