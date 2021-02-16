@@ -1,10 +1,8 @@
-# Projetos 👷👨‍🔧 
+# Meus projetos 👷
 
-<img href="www.myhairbrasil.com" src="https://user-images.githubusercontent.com/71656999/108058219-79daf300-7032-11eb-9bbd-38c2d307d045.png" alt="" height="200" width="auto">(https://github.com/MatheusNunesBoraso)
+<img href="www.myhairbrasil.com" src="https://user-images.githubusercontent.com/71656999/108058219-79daf300-7032-11eb-9bbd-38c2d307d045.png" alt="" height="200" width="auto">
 
-### Hi there 👋
-
-# Oi! Seja bem-vindo ao repository da MyHair! 🎩
+# Oi! Seja bem-vindo ao meu perfil
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/MatheusNunesBoraso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](www.linkedin.com/in/nunesboraso)
