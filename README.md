@@ -10,6 +10,13 @@
 
 - ✂ MyHair - https://www.myhairbrasil.com
 
+- Objetivo
+
+Procuro novos desafios profissionais e uma efetivação no mercado,
+gostaria de fazer parte da equipe de funcionários da empresa, tendo
+o objetivo de crescer profissionalmente e de maneira produtiva, além
+de contribuir para o desenvolvimento da organização como um todo.
+
 **MatheusNunesBoraso/MatheusNunesBoraso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
