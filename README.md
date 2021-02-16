@@ -14,11 +14,13 @@
 
 Here are some ideas to get you started:
 
-- Formação 🏛
+- 🏛 Educação 
 
-TDS (TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS) da Universidade UniSALESIANO - Araçatuba.
+-- Ensino Superior de Tecnologia em Análise e Desenvolvimento de
+Sistemas (TDS) na Universidade UniSALESIANO - Araçatuba.
 
-- 🌱 I’m currently learning ...
+- 🌱 Cursos
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
