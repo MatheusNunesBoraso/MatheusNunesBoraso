@@ -1,6 +1,6 @@
 # Meus projetos 👷
 
-<img href="www.myhairbrasil.com" src="https://user-images.githubusercontent.com/71656999/108058219-79daf300-7032-11eb-9bbd-38c2d307d045.png" alt="" height="200" width="auto">
+<img src="https://user-images.githubusercontent.com/71656999/108058219-79daf300-7032-11eb-9bbd-38c2d307d045.png" height="200" width="auto">
 
 # Oi! Seja bem-vindo ao meu perfil
 
