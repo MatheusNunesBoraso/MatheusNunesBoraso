@@ -5,7 +5,7 @@
 # Esse é meu perfil! 😁 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/MatheusNunesBoraso)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](www.linkedin.com/in/nunesboraso)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/nunesboraso?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ%2BQTIA48SmKUDZAfLB4ohw%3D%3D)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/theusnuunes)
 
 - ✂ MyHair - https://www.myhairbrasil.com
