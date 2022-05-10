@@ -1,3 +1,5 @@
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=audfzlr0x2tx9wdiqo6cn1vts&cover_image=true&theme=novatorem&bar_color=17e83a&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=audfzlr0x2tx9wdiqo6cn1vts&redirect=true)
+
 # Meus projetos 👷
 
 <img src="https://user-images.githubusercontent.com/71656999/108081394-ad784600-704f-11eb-8b46-c8d4832fff33.png" height="200" width="auto">
