@@ -1,7 +1,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=audfzlr0x2tx9wdiqo6cn1vts&cover_image=true&theme=novatorem&bar_color=17e83a&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=audfzlr0x2tx9wdiqo6cn1vts&redirect=true)
 
-- ✏️ Trabalhando atualmente na [Netbil Educacional](https://netbil.com.br)
-
 - 📫 E-mail: **matheusnunesbrasil@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
