@@ -16,4 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnunesboraso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🧩 Spotify:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=audfzlr0x2tx9wdiqo6cn1vts&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=audfzlr0x2tx9wdiqo6cn1vts&cover_image=true&theme=default&show_offline=true)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=audfzlr0x2tx9wdiqo6cn1vts&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=audfzlr0x2tx9wdiqo6cn1vts&cover_image=true&theme=default&show_offline=true)
