@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estou trabalhando atualmente em Netbil Educacional (@netbileducacional).<br>☕️ Amante de café ❤️.<br>⚡️ Costumo conversar sozinho.<br><br>Três frases que pode mudar o seu dia:<br><br>🌠 "Porque se Deus te deu mais um dia de vida é sinal que ele confia em você, então você não pode decepcionar."<br>💡 "Confiar em você é uma decisão minha, provar que eu estou errado, é uma escolha sua."<br>💎 "Um sábio disse, defenda-se com um sorriso, ofenda com o silêncio e vença com indiferença."
+🔭 Estou trabalhando atualmente em Netbil Educacional (@netbileducacional).<br>☕️ Amante de café ❤️.<br>⚡️ Costumo conversar sozinho.<br><br>Três frases que pode mudar o seu dia:<br><br>🌠 "Se Deus te deu mais um dia de vida é sinal que ele confia em você, não o decepcione."<br>💡 "Confiar em você é uma decisão minha, provar que eu estou errado, é uma escolha sua."<br>💎 "Um sábio disse, defenda-se com um sorriso, ofenda com o silêncio e vença com indiferença."
 
 
 ## 🌐 Social:
