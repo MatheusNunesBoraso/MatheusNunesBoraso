@@ -14,3 +14,4 @@
 
 - [curso-luizomf-reactjs-nextjs-project-1](https://github.com/MatheusNunesBoraso/curso-luizomf-reactjs-nextjs-project-1.git)
 - [pong-with-chatGPT](https://github.com/MatheusNunesBoraso/pong-with-chatGPT.git)
+- [husky-commitlint-translate](https://github.com/MatheusNunesBoraso/husky-commitlint-translate.git)
