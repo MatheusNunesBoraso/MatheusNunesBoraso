@@ -4,13 +4,24 @@
 
 <br/><br/>
 
-<img src="./cards/graph.svg" width="100%" alt="Contribuições" />
+<a href="https://github.com/MatheusNunesBoraso?tab=repositories"><img src="./cards/tile_code.svg" width="32.5%" alt="Projetos" /></a>
+<a href="https://linkedin.com/in/nunesboraso"><img src="./cards/tile_net.svg" width="32.5%" alt="LinkedIn" /></a>
+<a href="https://github.com/MatheusNunesBoraso"><img src="./cards/tile_cafe.svg" width="32.5%" alt="Sobre" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/MatheusNunesBoraso?tab=repositories"><img src="./cards/code.svg" width="32.5%" alt="CODE" /></a>
-<a href="https://github.com/MatheusNunesBoraso"><img src="./cards/apps.svg" width="32.5%" alt="COMMITS" /></a>
-<a href="https://linkedin.com/in/nunesboraso"><img src="./cards/sobre.svg" width="32.5%" alt="SOBRE" /></a>
+<img src="./cards/graph.svg" width="100%" alt="Contribuições no último ano" />
+
+<br/><br/>
+
+<img src="./cards/months.svg" width="100%" alt="Contribuições por mês, sequência e recorde" />
+
+<br/><br/>
+
+<a href="https://github.com/MatheusNunesBoraso/claude-code-status-line"><img src="./cards/repo_1.svg" width="49%" alt="claude-code-status-line" /></a>
+<a href="https://github.com/MatheusNunesBoraso/nucleo-escolar-2.0"><img src="./cards/repo_2.svg" width="49%" alt="nucleo-escolar-2.0" /></a>
+<a href="https://github.com/MatheusNunesBoraso/vintagestory-automacao"><img src="./cards/repo_3.svg" width="49%" alt="vintagestory-automacao" /></a>
+<a href="https://github.com/MatheusNunesBoraso/husky-commitlint-translate"><img src="./cards/repo_4.svg" width="49%" alt="husky-commitlint-translate" /></a>
 
 </div>
 
@@ -30,3 +41,7 @@
 # 🚧 Development:
 
 - [husky-commitlint-translate](https://github.com/MatheusNunesBoraso/husky-commitlint-translate.git)
+
+---
+
+<sub>Cards gerados por <code>scripts/render_readme_cards.py</code> e atualizados diariamente por GitHub Actions. Preview local: <code>STATIC=1 python scripts/render_readme_cards.py</code>.</sub>
