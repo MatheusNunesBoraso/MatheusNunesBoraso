@@ -28,7 +28,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install fonttools
+      - run: pip install fonttools Pillow
 
       - name: Atualiza dados de contribuição
         env:
