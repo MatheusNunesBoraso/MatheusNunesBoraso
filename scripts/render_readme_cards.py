@@ -16,14 +16,14 @@ import os, io, json, base64, html
 from collections import OrderedDict
 
 # ---------------- CONFIG ----------------
-BRAND  = "#2f54e8"                       # azul de marca — troque aqui
-PAPER  = "#f4f2ec"                       # fundo papel
-CARD   = "#faf9f5"                       # fundo dos cards
-INK    = "#141414"
-MUTE   = "#6b6b64"
-FAINT  = "#a9a79d"                       # ASCII
-LINE   = "#e4e1d8"                       # bordas
-HEAT   = ["#e9e7df", "#cfd9f6", "#9db4f0", "#5b82e8", BRAND]  # níveis do gráfico
+BRAND  = "#4f8cff"                       # azul de marca — troque aqui
+PAPER  = "none"                          # hero: fundo transparente (adapta ao tema)
+CARD   = "#161b22"                       # fundo dos cards (dark, estilo GitHub)
+INK    = "#e6edf3"
+MUTE   = "#8b949e"
+FAINT  = "#8b949e"                       # ASCII
+LINE   = "#2a3139"                       # bordas
+HEAT   = ["#21262d", "#16335f", "#1f5fd0", "#3b82f6", "#7cb0ff"]  # níveis do gráfico
 LOGIN  = "MatheusNunesBoraso"
 EYEBROW = "FULLSTACK ENGINEER · NETBIL EDUCACIONAL"
 DESC    = ["Construo produtos web e mobile na Netbil,",
@@ -177,7 +177,7 @@ def c_hero(prof):
         '.ds{font:500 16px Sans;fill:%s}' % MUTE +
         '.lk{font:500 12px Mono;fill:%s;letter-spacing:.5px}' % BRAND +
         '.ax{font:500 7px Mono;fill:%s;letter-spacing:0;white-space:pre}' % FAINT)
-    g = [st, panel(W, H, PAPER)]
+    g = [st]  # hero sem caixa: flutua transparente sobre o perfil
     # eyebrow
     g.append('<rect x="46" y="40" width="9" height="9" fill="%s" style="%s"/>' % (BRAND, reveal("0.05", "pop")))
     g.append('<text class="eb" x="64" y="49" style="%s">%s</text>' % (reveal("0.1", "fade"), esc(EYEBROW)))
@@ -278,7 +278,7 @@ def c_months(days, mitems, active, busy, streak):
     for i, ((yy, mm), v) in enumerate(mitems):
         bh = max(3, round(chart_h * (v / mx)))
         bx = padx + i * bw + bw * 0.2; bwid = bw * 0.6
-        color = BRAND if v == bestv and v > 0 else "#d9d6cc"
+        color = BRAND if v == bestv and v > 0 else "#30363d"
         stt = "" if STATIC else 'animation-delay:%ss' % round(0.3 + i * 0.05, 3)
         g.append('<rect class="bar" x="%.1f" y="%d" width="%.1f" height="%d" rx="3" fill="%s" style="%s"/>'
                  % (bx, base - bh, bwid, bh, color, stt))
